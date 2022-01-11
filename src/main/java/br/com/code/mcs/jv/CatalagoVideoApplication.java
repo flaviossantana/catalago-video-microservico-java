@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CatalagoVideoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Olá MUNDO!");
+		System.out.println("Olá MUNDO!!");
 		SpringApplication.run(CatalagoVideoApplication.class, args);
 	}
 
